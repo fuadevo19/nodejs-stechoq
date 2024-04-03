@@ -1,1 +1,1 @@
-# nodejs-stechoq
+Ini adalah tugas pembuatan aplikasi yang mengimplementasikan strutur data
