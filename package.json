@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-strukturdata",
+  "version": "1.0.0",
+  "description": "Tugas Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Fuadi",
+  "license": "ISC",
+  "dependencies": {}
+}
